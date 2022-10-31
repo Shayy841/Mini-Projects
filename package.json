@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "particles.js": "^2.0.0",
+    "react-tsparticles": "^2.3.3"
+  }
+}
